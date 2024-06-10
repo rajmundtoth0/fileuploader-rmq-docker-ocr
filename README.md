@@ -1,4 +1,6 @@
 # fileuploader-rmq-docker-ocr
+
+(This is an old project, but still fun)
 This project aims to demonstrate the structure of a semi-complete system.
 Everything starts with an HTTP POST request with a file and the user credentials in it.
 The system accepts the request, authenticate the user, then stores the file and registers the job 
